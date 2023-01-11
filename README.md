@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 - 🛅 Database: ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white), ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white).
 - 🧩 Work enviroment: ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
 - 🌱 I'm currently learning ![REACT](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB).
-- 📫 How to reach me: 
-  +  [email](j.garridotroche@gmail.com)
-  +  [linkedin](https://www.linkedin.com/in/jgarridotroche/) 
+- 📫 How to reach me: <br/>
+  ![GMAIL](https://img.shields.io/badge/Email-j.garridogroche@gmail.com-BB001B?style=for-the-badge&logo=gmail&logoColor=BB001B)<br/>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-JGarridoTroche-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/jgarridotroche/)<br/>
+  [![Twitter](https://img.shields.io/badge/Twitter-@grddev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/grddev)<br/>
 
 
 <!--
