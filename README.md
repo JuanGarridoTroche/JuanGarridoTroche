@@ -4,7 +4,7 @@
 **JuanGarridoTroche/JuanGarridoTroche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🌱 I'm currently learning ![Typescript](https://img.shields.io/badge/Typescript-2F74C0?style=plastic&logo=typescript&logoColor=white).
+- 🌱 I'm currently learning ![Typescript](https://img.shields.io/badge/Typescript-2F74C0?style=plastic&logo=typescript&logoColor=white) and ![Bem](https://img.shields.io/badge/Bem-E3E6E9?style=plastic&logo=bem&logoColor=black).
 
 -->
 
