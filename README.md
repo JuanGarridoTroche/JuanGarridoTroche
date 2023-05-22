@@ -4,7 +4,7 @@
 **JuanGarridoTroche/JuanGarridoTroche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🌱 I'm currently learning ![REACT](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB).
+- 🌱 I'm currently learning ![Typescript](https://img.shields.io/badge/Typescript-2F74C0?style=plastic&logo=typescript&logoColor=white).
 
 -->
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   ![GMAIL](https://img.shields.io/badge/Email-j.garridogroche@gmail.com-BB001B?style=for-the-badge&logo=gmail&logoColor=BB001B)<br/>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-JGarridoTroche-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/jgarridotroche/)<br/>
   [![Twitter](https://img.shields.io/badge/Twitter-@grddev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/grddev)<br/>
-- 🔭 I’m currently working on project: Lineage
+- 🖥️ I’m currently working on project: Lineage
 
 <!--
 - 🔭 I’m currently working on ...
